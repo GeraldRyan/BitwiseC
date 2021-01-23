@@ -34,6 +34,7 @@ void printByte() {
     printf("\n");
 }
 
+// Found this function at https://en.wikipedia.org/wiki/Bitwise_operations_in_C
 int adder(void) {
     printf("\nLet's now add two numbers with bitwise operations.\n");
     uint32_t x = 3,
